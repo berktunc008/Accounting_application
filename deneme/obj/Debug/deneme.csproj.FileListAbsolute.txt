@@ -1,0 +1,40 @@
+C:\Users\asel\Desktop\deneme\deneme\bin\Debug\deneme.exe.config
+C:\Users\asel\Desktop\deneme\deneme\bin\Debug\deneme.exe
+C:\Users\asel\Desktop\deneme\deneme\bin\Debug\deneme.pdb
+C:\Users\asel\Desktop\deneme\deneme\obj\Debug\deneme.csprojAssemblyReference.cache
+C:\Users\asel\Desktop\deneme\deneme\obj\Debug\deneme.Form1.resources
+C:\Users\asel\Desktop\deneme\deneme\obj\Debug\deneme.Properties.Resources.resources
+C:\Users\asel\Desktop\deneme\deneme\obj\Debug\deneme.csproj.GenerateResource.cache
+C:\Users\asel\Desktop\deneme\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+C:\Users\asel\Desktop\deneme\deneme\obj\Debug\deneme.exe
+C:\Users\asel\Desktop\deneme\deneme\obj\Debug\deneme.pdb
+C:\Users\Berk\Desktop\ödev prog\deneme\bin\Debug\deneme.exe.config
+C:\Users\Berk\Desktop\ödev prog\deneme\bin\Debug\deneme.exe
+C:\Users\Berk\Desktop\ödev prog\deneme\bin\Debug\deneme.pdb
+C:\Users\Berk\Desktop\ödev prog\deneme\obj\Debug\deneme.csprojAssemblyReference.cache
+C:\Users\Berk\Desktop\ödev prog\deneme\obj\Debug\deneme.Form1.resources
+C:\Users\Berk\Desktop\ödev prog\deneme\obj\Debug\deneme.Properties.Resources.resources
+C:\Users\Berk\Desktop\ödev prog\deneme\obj\Debug\deneme.csproj.GenerateResource.cache
+C:\Users\Berk\Desktop\ödev prog\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+C:\Users\Berk\Desktop\ödev prog\deneme\obj\Debug\deneme.exe
+C:\Users\Berk\Desktop\ödev prog\deneme\obj\Debug\deneme.pdb
+C:\Users\Berk\Desktop\ödev prog2\deneme\bin\Debug\deneme.exe.config
+C:\Users\Berk\Desktop\ödev prog2\deneme\bin\Debug\deneme.exe
+C:\Users\Berk\Desktop\ödev prog2\deneme\bin\Debug\deneme.pdb
+C:\Users\Berk\Desktop\ödev prog2\deneme\obj\Debug\deneme.csprojAssemblyReference.cache
+C:\Users\Berk\Desktop\ödev prog2\deneme\obj\Debug\deneme.Form1.resources
+C:\Users\Berk\Desktop\ödev prog2\deneme\obj\Debug\deneme.Properties.Resources.resources
+C:\Users\Berk\Desktop\ödev prog2\deneme\obj\Debug\deneme.csproj.GenerateResource.cache
+C:\Users\Berk\Desktop\ödev prog2\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+C:\Users\Berk\Desktop\ödev prog2\deneme\obj\Debug\deneme.exe
+C:\Users\Berk\Desktop\ödev prog2\deneme\obj\Debug\deneme.pdb
+C:\Users\Berk\Desktop\NDP ödev1\deneme\bin\Debug\deneme.exe.config
+C:\Users\Berk\Desktop\NDP ödev1\deneme\bin\Debug\deneme.exe
+C:\Users\Berk\Desktop\NDP ödev1\deneme\bin\Debug\deneme.pdb
+C:\Users\Berk\Desktop\NDP ödev1\deneme\obj\Debug\deneme.csprojAssemblyReference.cache
+C:\Users\Berk\Desktop\NDP ödev1\deneme\obj\Debug\deneme.Form1.resources
+C:\Users\Berk\Desktop\NDP ödev1\deneme\obj\Debug\deneme.Properties.Resources.resources
+C:\Users\Berk\Desktop\NDP ödev1\deneme\obj\Debug\deneme.csproj.GenerateResource.cache
+C:\Users\Berk\Desktop\NDP ödev1\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+C:\Users\Berk\Desktop\NDP ödev1\deneme\obj\Debug\deneme.exe
+C:\Users\Berk\Desktop\NDP ödev1\deneme\obj\Debug\deneme.pdb
